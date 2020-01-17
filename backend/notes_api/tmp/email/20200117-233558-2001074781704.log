@@ -1,0 +1,18 @@
+Content-Type: text/plain; charset="utf-8"
+MIME-Version: 1.0
+Content-Transfer-Encoding: 7bit
+Subject: [example.com] Please Confirm Your E-mail Address
+From: webmaster@localhost
+To: abrijwasi1@gmail.com
+Date: Fri, 17 Jan 2020 18:05:58 -0000
+Message-ID: <157928435817.14224.11328586149014874391@MSI>
+
+Hello from example.com!
+
+You're receiving this e-mail because user ankit has given yours as an e-mail address to connect their account.
+
+To confirm this is correct, go to http://127.0.0.1:8000/api-auth/registration/account-confirm-email/Mg:1isW0M:2QElhW2l5wmeavJFifOKOySDQBk/
+
+Thank you from example.com!
+example.com
+-------------------------------------------------------------------------------
